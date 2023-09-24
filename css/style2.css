@@ -114,11 +114,11 @@ footer p{
     color: white;
 }
 .asd{
-    font-size: 1.4vw;
+    font-size: 30px;
 
 }
 .footer__text-area__text{
-    font-size: 1.8vw;
+    font-size: 45px;
     text-align: center;
 }
 
@@ -158,6 +158,14 @@ footer p{
     font-size: 22px;
     font-weight: 400;
   }
+  .asd{
+    font-size: 18px;
+
+}
+.footer__text-area__text{
+    font-size: 35px;
+    text-align: center;
+}
 
   .hero__description {
     font-size: 14px;
